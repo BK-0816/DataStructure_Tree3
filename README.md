@@ -1,2 +1,2 @@
 # DataStructure_Tree3
-(./Tree3.jpg)  
+![](./Tree3.jpg)  
